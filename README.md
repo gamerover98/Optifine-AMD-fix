@@ -45,14 +45,16 @@ try {
 ```
 
 ### How to patch the LWJGL-OpenGL jar file
+#### [Apache Maven software](https://maven.apache.org/download.cgi) is required to compile this project
 
-- Download this repository as zip or wit git clone
-- Download Maven for your machine
-- Type: mvn clean compile
+
+- Download this repository as zip or clone it
+- Type: `mvn clean compile`
 - After compiling, you'll find the compiled ARBShaderObjects class at target\classes\org\lwjgl\opengl
 - Download LWJGL OpenGL 3.2.2 Jar from the [manve repo](https://mvnrepository.com/artifact/org.lwjgl/lwjgl-opengl/3.2.2)
 - Open it with 7Zip, WinRar or similar
-- Replace your ARBShaderObjects.class compiled file with the org\lwjgl\opengl\ARBShaderObjects.class zip file
+- Replace the org\lwjgl\opengl\ARBShaderObjects.class zip file with your.
 
-#### Disclaimer
-I'm not the author of this fix, waiting for an official Optifine update, I provide you with an easy way to use shaders with your AMD GPU.
+### Disclaimer
+I'm not the author of this fix. 
+Waiting for an official Optifine update, I provide you with an easy way to use shaders with your AMD GPU.
