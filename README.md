@@ -20,6 +20,10 @@ This project provides you only with the source code of the modified LWJGL-OpenGL
 - Follow the BaliantCsal [PDF guide](https://github.com/sp614x/optifine/files/6702261/Getting_Optifine_shaders_working_on_some_AMD_cards.1.pdf)
 - Copy the MultiMC LWJGL json file from [here](https://pastebin.com/raw/Lx8KGgie)
 
+![2021-07-10_12 28 52](https://user-images.githubusercontent.com/9408687/125159907-8515f300-e17a-11eb-81a4-5560672540b9.png)
+
+---
+
 ### How does it work
 This simple Maven project provides you a copy of the original ARBShaderObjects class from the OpenGL module of LWJGL 3.2.2 (current Minecraft LWJGL version).
 
