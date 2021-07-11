@@ -55,7 +55,7 @@ try {
 - Download this repository as zip or clone it
 - Type: `mvn clean compile`
 - After compiling, you'll find the compiled ARBShaderObjects class at target\classes\org\lwjgl\opengl
-- Download LWJGL OpenGL 3.2.2 Jar from the [manve repo](https://mvnrepository.com/artifact/org.lwjgl/lwjgl-opengl/3.2.2)
+- Download LWJGL OpenGL 3.2.2 Jar from the [maven repo](https://mvnrepository.com/artifact/org.lwjgl/lwjgl-opengl/3.2.2)
 - Open it with 7Zip, WinRar or similar
 - Replace the org\lwjgl\opengl\ARBShaderObjects.class zip file with your.
 
