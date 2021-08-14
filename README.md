@@ -1,3 +1,6 @@
+## Important
+This issue has been fixed on 2021-08-07 with the OptiFine 1.17.1_HD_U_G9_pre33 release but, if you need this fix with old Optifine versions, follow this guide.
+
 # LWJGL OpenGL AMD Optifine crash fix
 #### It prevents your game to crash while enabling shaders like SEUS, Chocapic13, etc.
 
